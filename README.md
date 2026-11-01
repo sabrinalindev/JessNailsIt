@@ -1,4 +1,4 @@
-# 💅 Jess Nails It
+# Jess Nails It
 
 A website for Jess, a nail artist. Visitors can browse her work, learn about her, and get in touch to book an appointment.
 
@@ -41,7 +41,7 @@ No build step or dependencies are required.
 JessNailsIt/
 ├── index.html        # Home page
 ├── About Me.html     # About page
-├── assets/           # 【CSS, JavaScript, fonts 等】
+├── assets/           # CSS, JavaScript, fonts
 └── images/           # Photos and images
 ```
 
